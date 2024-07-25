@@ -1,6 +1,6 @@
 .idea/
-venv/
 .env
+venv/
 .vscode/
 .DS_Store
 Chat_*.md

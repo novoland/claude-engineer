@@ -1,4 +1,4 @@
-anthropic
+openai
 python-dotenv
 tavily-python
 Pillow
